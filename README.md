@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Tej+Aidee;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
 
----
 
 <p align="center">
   💡 I turn ideas into working software, from web apps to backend systems <br>
@@ -17,7 +16,6 @@
 🤝 open to full-time roles, internships and collaborations  
 🎯 goal: build secure, reliable, user-focused software  
 
----
 
 🎯 outside of code:
 
