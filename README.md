@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Tej+Aidee;Aspiring+Software+Engineer" alt="Typing SVG" />
+</h1>
 
-<!--
-**tej5555/tej5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 i turn ideas into working software, from web apps to backend systems <br>
+  🚀 ready to bring my skills to a team in any area of tech
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 cs student @ queens college, cuny | last semester before graduation  
+🛠️ building projects with java, python, javascript and node.js  
+🔐 currently exploring ai in cybersecurity  
+🤝 open to full-time roles, internships and collaborations  
+🎯 goal: build secure, reliable, user-focused software  
+
+---
+
+🎯 outside of code:
+
+⚽ sports person at heart, always up for a game  
+🛡️ solving ctf challenges and learning ethical hacking  
+🤖 reading about the latest in ai and security  
+🧩 problem solving and competitive coding  
+🏆 hackathons and tech events around nyc  
+🎵 music after a long coding session  
+
+---
+## 🛠️ Here's My Tech Stack
+
+<table>
+  <tr>
+    <td><b>Programming:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,cs,java,py,js" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+  </tr>
+  <tr>
+    <td><b>Database:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools & Others:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=github,vscode,linux" /></td>
+  </tr>
+</table>
+
+---
+
+---
+
+
+<p align="center">
+  <a href="mailto:tejaidee34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+</p>
