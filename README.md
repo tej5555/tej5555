@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Tej+Aidee;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  💡 i turn ideas into working software, from web apps to backend systems <br>
-  🚀 ready to bring my skills to a team in any area of tech
-</p>
 
 ---
 
